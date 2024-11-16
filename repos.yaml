@@ -1,5 +1,11 @@
-tip: 为避免多个 PR 冲突，在 PR 合并后 repos.yaml 会被清空，历史提交请查看 history/repos_history.yaml
+
 repos:
-- repo: com.xmly.deepin
-  info: wine应用
-  developer: PeakVue
+- repo: com.poki.cats-love-cake
+  info: Cats Love Cake
+  developer: DoubleDutch Games
+  repo: com.poki.crazy-pig-simulator
+  info: Crazy Pig Simulator
+  developer: CyberGoldFinch
+  repo: com.poki.a-pretty-odd-bunny
+  info: A Pretty Odd Bunny
+  developer: AJ Ordaz
